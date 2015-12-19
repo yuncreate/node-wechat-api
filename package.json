@@ -1,0 +1,28 @@
+{
+  "name":"node-wechat-api",
+  "version":"0.0.1",
+  "description":"api module of wechat",
+  "keywords":"wechat",
+  "homepage":"www.yuncreate.com/node/api-wechat-api",
+  "bugs":{
+    "url":"http://github.com",
+    "email":"yuncreate@163.com"
+  },
+  "license": [
+    { "type" : "MyLicense"
+    , "url" : "http://github.com/owner/project/path/to/license"
+    }
+  ],
+  "author":{
+    "name":"mengkeys",
+    "email":"mengkeys@hotmail.com",
+    "url":"http://www.mengkeys.com"
+  },
+  "contributors":[
+    {
+      "name":"insrv",
+      "email":"insrv@qq.com",
+      "url":"www.insrv.cn"
+    }
+  ]
+}
